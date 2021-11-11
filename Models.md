@@ -14,7 +14,9 @@
     - absence of slip rings (which gets wear out over time) reduces friction, electrical resistance, heat during operation thus reduces a point of failure 
     - no need for starter capacitor which is most common point of failure in 1 phase induction motors
     - speed can be more dynamically controlled from 0% to 100% (unlike in conventional cooler where there are 3 speed levels based on winding ratio)
-    - 
+    - BLDC motors operate more quitely than conventional motor reducing motor noise
+    - BLDC motor is available significantly small form factor for similar torque requirements. thus dry weight of cooler can be also reduced.
+    - BLDC motors can easily reach very high RPMs so there is scope to operate with smaller diameter propellers (translating to smaller size unit) maintaining same or more airflow than conventional unit
 
 # Dibya
 
