@@ -9,7 +9,7 @@
 
 
 # Sayansree
-- use of BLDC motors
+- use of BLDC motors for fan
     - BLDC motors are more energy efficient compared to 1 phase induction motor
     - absence of slip rings (which gets wear out over time) reduces friction, electrical resistance, heat during operation thus reduces a point of failure 
     - no need for starter capacitor which is most common point of failure in 1 phase induction motors
