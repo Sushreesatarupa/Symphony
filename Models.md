@@ -42,3 +42,10 @@
 model | sushree | sayansree | dibya | anshuman
 :---: |---------|-----------|-------|----------
 xxx | | | | 
+
+![front panel](https://user-images.githubusercontent.com/60027681/141353409-d372a3f6-8df3-4f00-b80a-022a67d91147.png)
+![panel](https://user-images.githubusercontent.com/60027681/141353444-f4507447-8160-4a0c-8c98-be03ad08a5eb.png)
+![foldble](https://user-images.githubusercontent.com/60027681/141353470-838c8350-e760-401b-9912-a898730411c7.jpg)
+
+
+
