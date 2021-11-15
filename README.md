@@ -8,6 +8,8 @@
 
 ---
 
+## Properties
+
 - Automatic fin
 - Curved ends 
 - Lighting
