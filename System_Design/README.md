@@ -1,2 +1,2 @@
-class - symphony_cooler
-object - cooler
+1. class - symphony_cooler
+2. object - cooler
